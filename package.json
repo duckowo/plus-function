@@ -1,0 +1,24 @@
+{
+  "name": "plus-function",
+  "version": "1.0.0",
+  "description": "Library that provide a function to calculate sum of two numbers",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/duckowo/plus-function.git"
+  },
+  "keywords": [
+    "sum",
+    "plus",
+    "functions"
+  ],
+  "files": [
+    "index.js"
+  ],
+  "author": "duckowo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/duckowo/plus-function/issues"
+  },
+  "homepage": "https://github.com/duckowo/plus-function#readme"
+}
