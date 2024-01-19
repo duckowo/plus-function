@@ -1,0 +1,1 @@
+Just a simple library that provide a function to calculate sum of two numbers
