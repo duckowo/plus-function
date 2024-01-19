@@ -1,6 +1,6 @@
 {
   "name": "plus-function",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Library that provide a function to calculate sum of two numbers",
   "main": "index.js",
   "repository": {
